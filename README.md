@@ -2,8 +2,8 @@
 
 ## Requirements
 
-ruby 2.3+
-bundler
+* ruby 2.3+
+* bundler
 
 ## Quick start
 
